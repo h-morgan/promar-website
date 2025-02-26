@@ -3884,6 +3884,7 @@ input, select, textarea {
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
+		text-align: center;
 	}
 
 		#intro p {
@@ -3914,8 +3915,9 @@ input, select, textarea {
 
 		}
 
+
 .front-image {
-	max-width: 60%;
+	max-width: 100%;
 }
 
 .highlight {
